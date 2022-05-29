@@ -4,20 +4,20 @@ Alpha is an digital assistant based on desktop application that help user to do 
 
 # Libraries
 
-## Speech Recognition
-*speech_recognition
+### Speech Recognition
+*speech_recognition*
 
-## N-Grams
+### N-Grams
 *nltk*
 
 ## Jaccard Distance
-*nltk
+*nltk*
 
 ## Text-to-Speech
-*pyttsx3
+*pyttsx3*
 
 ## Knowledge and Answer Engine
-*wolframalpha
+*wolframalpha*
 
 # Setup
 
@@ -28,10 +28,10 @@ The setup files will be pushed on this repository ASAP too.
 
 # Problem
 
-*Not Responding
-*Typo Correcting
-*Restricted Language
-*Program Speed
+* Not Responding
+* Typo Correcting
+* Restricted Language
+* Program Speed
 
 For program speed is strongly affected by your hardware specifications.
 
