@@ -2,7 +2,7 @@
 
 Alpha is an digital assistant based on desktop application that help user to do several things, such as open google/sites/applications, search and answer user questions both related to the fields of mathematics, technology & science, society & culture, everyday life problem, and etc. This application can be run with voice command or type command. If you command alpha via type command, there is also a typo correction feature.
 
-# Libraries
+## Libraries
 
 ### Speech Recognition
 *speech_recognition*
@@ -19,7 +19,7 @@ Alpha is an digital assistant based on desktop application that help user to do 
 ### Knowledge and Answer Engine
 *wolframalpha*
 
-# Setup
+## Setup
 
 To make the .pyw file to .exe file, you just need to go to your directory command prompt and run this command --> "pyinstaller digitalAssistant.pyw"
 
@@ -29,7 +29,7 @@ If the program can't run properly then ASAP.
 
 The setup files will be pushed on this repository ASAP too.
 
-# Problem
+## Problem
 
 * Not Responding
 * Typo Correcting
