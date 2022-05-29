@@ -36,7 +36,7 @@ The setup files will be pushed on this repository ASAP too.
 * Restricted Language
 * Program Speed
 
-For program speed is strongly affected by your hardware specifications.
+For program speed problem is strongly affected by your hardware specifications.
 
 For further documentation will be updated as soon as possible.
 
