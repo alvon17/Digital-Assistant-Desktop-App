@@ -1,4 +1,4 @@
-# Alpha Digital Assistant
+# Alpha Digital Assistant - Repository
 
 Alpha is an digital assistant based on desktop application that help user to do several things, such as open google/sites/applications, search and answer user questions both related to the fields of mathematics, technology & science, society & culture, everyday life problem, and etc. This application can be run with voice command or type command. If you command alpha via type command, there is also a typo correction feature.
 
