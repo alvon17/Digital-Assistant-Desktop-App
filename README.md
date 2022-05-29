@@ -39,7 +39,7 @@ The setup files will be pushed on this repository ASAP too.
 For program speed problem is strongly affected by your hardware specifications.
 
 ### Windows
-MINIMUM:
+MINIMUM :
 * OS: Windows 7 64bit or later
 * Processor: Intel Core™ Duo or faster
 * Memory: 2 GB RAM
@@ -47,7 +47,7 @@ MINIMUM:
 * Storage: 2 GB available space
 
 ### macOS
-MINIMUM:
+MINIMUM :
 * OS: OS X Lion 10.7, or later.
 * Processor: Intel Mac
 * Memory: 2 GB RAM
