@@ -22,8 +22,11 @@ Alpha is an digital assistant based on desktop application that help user to do 
 # Setup
 
 To make the .pyw file to .exe file, you just need to go to your directory command prompt and run this command --> "pyinstaller digitalAssistant.pyw"
+
 After all the process done, you can see the .exe file in this directory --> dist\digitalAssistant\digitalAssistant.exe
+
 If the program can't run properly then ASAP.
+
 The setup files will be pushed on this repository ASAP too.
 
 # Problem
