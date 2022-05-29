@@ -10,10 +10,10 @@ Alpha is an digital assistant based on desktop application that help user to do 
 ### N-Grams
 *nltk*
 
-## Jaccard Distance
+### Jaccard Distance
 *nltk*
 
-## Text-to-Speech
+### Text-to-Speech
 *pyttsx3*
 
 ## Knowledge and Answer Engine
