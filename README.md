@@ -1,7 +1,7 @@
 # Alpha Digital Assistant - Repository
 
 <br><p align="center">
-  <img src="https://github.com/GWENTzy/Digital-Assistant-Desktop-App/blob/main/Alpha%20Assistant.jpeg" width="300" height="300">
+  <img src="https://github.com/GWENTzy/Digital-Assistant-Desktop-App/blob/main/Alpha%20Assistant.jpeg">
   </p>
  
 Alpha is an digital assistant based on desktop application that help user to do several things, such as open google/sites/applications, search and answer user questions both related to the fields of mathematics, technology & science, society & culture, everyday life problem, and etc. This application can be run with voice command or type command. If you command alpha via type command, there is also a typo correction feature.
