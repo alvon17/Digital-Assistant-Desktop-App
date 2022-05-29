@@ -38,7 +38,21 @@ The setup files will be pushed on this repository ASAP too.
 
 For program speed problem is strongly affected by your hardware specifications.
 
-For further documentation will be updated as soon as possible.
+### Windows
+MINIMUM:
+OS: Windows 7 64bit or later
+Processor: Intel Core™ Duo or faster
+Memory: 2 GB RAM
+Graphics: DirectX® 9 Compatible Graphics Card
+Storage: 2 GB available space
+
+### macOS
+MINIMUM:
+OS: OS X Lion 10.7, or later.
+Processor: Intel Mac
+Memory: 2 GB RAM
+Graphics: Intel® HD Graphics or better
+Storage: 2 GB available space
 
 ## Licensed
 Licenced under [MIT]
