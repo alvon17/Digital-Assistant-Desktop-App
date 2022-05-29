@@ -8,7 +8,7 @@ Alpha is an digital assistant based on desktop application that help user to do 
 *speech_recognition
 
 ## N-Grams
-*nltk
+*nltk*
 
 ## Jaccard Distance
 *nltk
