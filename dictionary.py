@@ -7,8 +7,8 @@ correct_words = ['my', 'is', 'it', 'on', 'are', 'bye', 'how', 'you', 'find', 'he
 def check_words(query):
     final_words = []
     for word in query:
-        temp = [(jaccard_distance(set(ngrams(word, 2)),
-                                set(ngrams(w, 2))),w)
+        temp = [(jaccard_distance(set(ngrams(word, 1)),
+                                set(ngrams(w, 1))),w)
                 for w in correct_words if w[0]==word[0]]
 
         final_words.append(sorted(temp, key = lambda val:val[0])[0][1])
